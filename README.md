@@ -32,7 +32,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img width="30px" height="30px" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original.svg" />
 <img width="30px" height="30px" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/bootstrap/bootstrap-plain.svg" />
 <img width="30px" height="30px" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img width="30px" height="30px" alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/angularjs/angularjs-plain.svg" />
+<img width="30px" height="30px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img width="30px" height="30px" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mysql/mysql-original.svg" />
 <img width="30px" height="30px" alt="OracleDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <img width="30px" height="30px"  src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
