@@ -33,11 +33,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img width="30px" height="30px" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/bootstrap/bootstrap-plain.svg" />
 <img width="30px" height="30px" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img width="30px" height="30px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img width="30px" height="30px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img width="30px" height="30px" alt="DialogFlow" src="dialogflow.png">
+<img width="30px" height="30px" alt="Facebook API" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 <img width="30px" height="30px" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mysql/mysql-original.svg" />
 <img width="30px" height="30px" alt="OracleDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img width="30px" height="30px"  src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
-
- <img width="30px" height="30px" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img width="30px" height="30px"  alt="MSSQLServer" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
+<img width="30px" height="30px" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img width="30px" height="30px" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 </div>
 
@@ -48,4 +50,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=SkyZeroZx&&show_icons=true&title_color=ffffff&icon_color=dd0531&text_color=daf7dc&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyZeroZx&langs_count=8&count_private=true&layout=compact&&show_icons=true&title_color=ffffff&icon_color=dd0531&text_color=daf7dc&bg_color=151515)
- 
