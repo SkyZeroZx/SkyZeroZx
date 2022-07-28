@@ -21,7 +21,7 @@
 
 <img width="30px" height="30px" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" />
 <img width="30px" height="30px" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/typescript/typescript-original.svg" />
-<img width="34px" height="33px" alt="Angular" src="https://v6.angular.live/assets/images/logos/angular/angular.svg" />
+<img width="30px" height="30px" alt="Angular" src="https://v6.angular.live/assets/images/logos/angular/angular.svg" />
 <img width="30px" height="30px" alt="PWA" src="https://v6.angular.live/assets/images/logos/concept-icons/pwa.png">
 <img width="30px" height="30px" alt="Cypress" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon_128x128.png"  />
 <img width="30px" height="30px" alt="Jasmine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"  />
