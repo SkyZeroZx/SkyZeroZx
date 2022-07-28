@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h3 align="center">Soy un desarrollador de aplicaciones web, PWA , móviles , aplicando Unit Test y E2E Testing a las aplicaciones.</h3>
+<h3 align="center">Soy un desarrollador de aplicaciones Web, PWA , móviles , aplicando Unit Test y E2E Testing a las aplicaciones bajo metodologias ágiles</h3>
 
 <img width="50%" align="right"  src="super-angular-developer.jpg" />
 
@@ -35,7 +35,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img width="30px" height="30px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img width="30px" height="30px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img width="30px" height="30px" alt="DialogFlow" src="dialogflow.png">
+<img width="30px" height="30px" alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img width="30px" height="30px" alt="Facebook API" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+<img width="30px" height="30px" alt="JIRA"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <img width="30px" height="30px" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mysql/mysql-original.svg" />
 <img width="30px" height="30px" alt="OracleDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <img width="30px" height="30px"  alt="MSSQLServer" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
