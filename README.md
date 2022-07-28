@@ -17,12 +17,12 @@
 <!-- Iconos proporcionados por https://devicon.dev/ -->
 
 <div align="left">
-<img width="30px" height="30px" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-plain.svg" />
-<img width="30px" height="30px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<img width="30px" height="30px" alt="Angular" src="https://v6.angular.live/assets/images/logos/angular/angular.svg" />
+<img width="30px" height="30px" alt="PWA" src="https://v6.angular.live/assets/images/logos/concept-icons/pwa.png">
 <img width="30px" height="30px" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" />
 <img width="30px" height="30px" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/typescript/typescript-original.svg" />
 <img width="30px" height="30px" alt="Cypress" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon_128x128.png"  />
-
 <img width="30px" height="30px" alt="Jasmine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"  />
 <img width="30px" height="30px" alt="Karma" src="https://v6.angular.live/assets/images/logos/concept-icons/karma.png">
 <img width="30px" height="30px" alt="Jest" 
@@ -34,10 +34,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img width="30px" height="30px" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original.svg" />
 <img width="30px" height="30px" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/bootstrap/bootstrap-plain.svg" />
 <img width="30px" height="30px" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img width="30px" height="30px" alt="Angular" src="https://v6.angular.live/assets/images/logos/angular/angular.svg" />
 <img width="30px" height="30px" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-
-<img width="30px" height="30px" alt="PWA" src="https://v6.angular.live/assets/images/logos/concept-icons/pwa.png">
+<img width="30px" height="30px" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-plain.svg" />
+<img width="30px" height="30px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img width="30px" height="30px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img width="30px" height="30px" alt="DialogFlow" src="dialogflow.png">
 <img width="30px" height="30px" alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
