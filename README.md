@@ -7,7 +7,7 @@
 
 <h3 align="center">Soy un desarrollador de aplicaciones web, PWA , móviles , aplicando Unit Test y E2E Testing a las aplicaciones.</h3>
 
-<img width="50%" align="right"  " src="./super-angular-developer.jpg" />
+<img width="50%" align="right"  src="super-angular-developer.jpg" />
 
 - 💬 Preguntame sobre ... **Desarrollo web y de APIS**
 - 📫 Como llegar a mi **jaimeburgostejada@gmail.com**
