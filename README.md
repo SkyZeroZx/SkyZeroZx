@@ -33,6 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img width="30px" height="30px" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/bootstrap/bootstrap-plain.svg" />
 <img width="30px" height="30px" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img width="30px" height="30px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img width="30px" height="30px" alt="PWA" src="https://v6.angular.live/assets/images/logos/concept-icons/pwa.png">
 <img width="30px" height="30px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img width="30px" height="30px" alt="DialogFlow" src="dialogflow.png">
 <img width="30px" height="30px" alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
