@@ -43,6 +43,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img width="30px" height="30px" alt="DialogFlow" src="dialogflow.png">
 <img width="30px" height="30px" alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img width="30px" height="30px" alt="Facebook API" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+<img width="30px" height="30px" alt="PowerBI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 <img width="30px" height="30px" alt="WordPess" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" >
 <img width="30px" height="30px" alt="JIRA"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <img width="30px" height="30px" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mysql/mysql-original.svg" />
