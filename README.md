@@ -10,7 +10,7 @@
 <img width="50%" align="right"  src="super-angular-developer.jpg" />
 
 - 💬 Preguntame sobre ... **Desarrollo web y de APIS**
-- 📫 Como llegar a mi **jaimeburgostejada@gmail.com**
+- 📫 Me puedes escribir : **jaimeburgostejada@gmail.com**
 
 <h4>Lenguajes que manejo y herramientas</h4>
 
