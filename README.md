@@ -33,7 +33,7 @@
 <img width="30px" height="30px" alt="CSS3" src="assets/technologies/css3.svg"  />
 <img width="30px" height="30px" alt="Bootstrap" src="assets/technologies/bootstrap.svg"   />
 <img width="30px" height="30px" alt="Material UI" src="assets/technologies/materialui.svg" />
-<img width="30px" height="30px" alt="TailwindCSS" src="assets/technologies/TailwindCSS.svg" />
+<img width="30px" height="30px" alt="TailwindCSS" src="assets/technologies/tailwindcss.svg" />
 <img width="30px" height="30px" alt="Git" src="assets/technologies/git.svg" />
 <img width="30px" height="30px" alt="Terminal" src="assets/technologies/terminal.png" >
 <img width="30px" height="30px" alt="Docker" src="assets/technologies/docker.svg" >
