@@ -7,7 +7,7 @@
 
 <h3 align="center">Soy un desarrollador de aplicaciones Web, PWA , móviles , aplicando Unit Test y E2E Testing a las aplicaciones bajo metodologias ágiles</h3>
 
-<img width="50%" align="right"  src="super-angular-developer.jpg" />
+<img width="50%" align="right"  src="assets/images/super-angular-developer.jpg" />
 
 - 💬 Preguntame sobre ... **Desarrollo web y de APIS**
 - 📫 Me puedes escribir : **jaimeburgostejada@gmail.com**
@@ -17,40 +17,48 @@
 <!-- Iconos proporcionados por https://devicon.dev/ -->
 
 <div align="left">
-
-
-<img width="30px" height="30px" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" />
-<img width="30px" height="30px" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/typescript/typescript-original.svg" />
-<img width="30px" height="30px" alt="Angular" src="https://v6.angular.live/assets/images/logos/angular/angular.svg" />
-<img width="30px" height="30px" alt="PWA" src="https://v6.angular.live/assets/images/logos/concept-icons/pwa.png">
-<img width="30px" height="30px" alt="Cypress" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon_128x128.png"  />
-<img width="30px" height="30px" alt="Jasmine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"  />
-<img width="30px" height="30px" alt="Karma" src="https://v6.angular.live/assets/images/logos/concept-icons/karma.png">
-<img width="30px" height="30px" alt="Jest" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img width="30px" height="30px" alt="SonarQube" src="https://logodix.com/logo/2012444.png">
-<img width="30px" height="30px" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"  />
-<img width="30px" height="30px" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/nodejs/nodejs-original.svg" />
-<img width="30px" height="30px" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-
-<img width="30px" height="30px" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/html5/html5-original.svg" />
-<img width="30px" height="30px" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original.svg" />
-<img width="30px" height="30px" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/bootstrap/bootstrap-plain.svg" />
-<img width="30px" height="30px" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img width="30px" height="30px" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-plain.svg" />
-<img width="30px" height="30px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img width="30px" height="30px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img width="30px" height="30px" alt="DialogFlow" src="dialogflow.png">
-<img width="30px" height="30px" alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img width="30px" height="30px" alt="Facebook API" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-<img width="30px" height="30px" alt="PowerBI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-<img width="30px" height="30px" alt="WordPess" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" >
-<img width="30px" height="30px" alt="JIRA"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-<img width="30px" height="30px" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mysql/mysql-original.svg" />
-<img width="30px" height="30px" alt="OracleDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img width="30px" height="30px"  alt="MSSQLServer" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
-<img width="30px" height="30px" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img width="30px" height="30px" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img width="30px" height="30px" alt="Javascript" src="assets/technologies/javascript.svg" />
+<img width="30px" height="30px" alt="Typescript" src="assets/technologies/typescript.svg" />
+<img width="30px" height="30px" alt="Angular" src="assets/technologies/angular.svg" />
+<img width="30px" height="30px" alt="PWA" src="assets/technologies/pwa.png" >
+<img width="30px" height="30px" alt="Cypress" src="assets/technologies/cypress.png"   />
+<img width="30px" height="30px" alt="Jasmine" src="assets/technologies/jasmine.svg"  />
+<img width="30px" height="30px" alt="Karma" src="assets/technologies/karma.png" >
+<img width="30px" height="30px" alt="Jest" src="assets/technologies/jest.svg" />
+<img width="30px" height="30px" alt="SonarQube" src="assets/technologies/sonar.webp">
+<img width="30px" height="30px" alt="NestJS" src="assets/technologies/nestjs.svg"  />
+<img width="30px" height="30px" alt="NodeJS" src="assets/technologies/nodejs.svg" />
+<img width="30px" height="30px" alt="NPM"  src="assets/technologies/npm.svg" >
+<img width="30px" height="30px" alt="HTML5" src="assets/technologies/html5.svg"  />
+<img width="30px" height="30px" alt="CSS3" src="assets/technologies/css3.svg"  />
+<img width="30px" height="30px" alt="Bootstrap" src="assets/technologies/bootstrap.svg"   />
+<img width="30px" height="30px" alt="Material UI" src="assets/technologies/materialui.svg" />
+<img width="30px" height="30px" alt="TailwindCSS" src="assets/technologies/TailwindCSS.svg" />
+<img width="30px" height="30px" alt="Git" src="assets/technologies/git.svg" />
+<img width="30px" height="30px" alt="Terminal" src="assets/technologies/terminal.png" >
+<img width="30px" height="30px" alt="Docker" src="assets/technologies/docker.svg" >
+<img width="30px" height="30px" alt="Grafana" src="assets/technologies/grafana.svg" >
+<img width="30px" height="30px" alt="Prometheus" src="assets/technologies/prometheus.svg" >
+<img width="30px" height="30px" alt="Kibana" src="assets/technologies/kibana.svg" >
+<img width="30px" height="30px" alt="Elasticsearch" src="assets/technologies/elasticsearch.svg" >
+<img width="30px" height="30px" alt="Logstash" src="assets/technologies/logstash.svg" >
+<img width="30px" height="30px" alt="Nginx" src="assets/technologies/nginx.svg" >
+<img width="30px" height="30px" alt="Swagger" src="assets/technologies/swagger.svg" >
+<img width="30px" height="30px" alt="DialogFlow" src="assets/technologies/dialogflow.png" >
+<img width="30px" height="30px" alt="Google Cloud" src="assets/technologies/google-cloud.svg"  />
+<img width="30px" height="30px" alt="Facebook API" src="assets/technologies/facebook.svg" />
+<img width="30px" height="30px" alt="PowerBI" src="assets/technologies/power-bi.svg" >
+<img width="30px" height="30px" alt="WordPess" src="assets/technologies/wordpress.png"  >
+<img width="30px" height="30px" alt="JIRA"  src="assets/technologies/jira.svg"  />
+<img width="30px" height="30px" alt="MySQL" src="assets/technologies/mysql.svg"  />
+<img width="30px" height="30px" alt="OracleDB" src="assets/technologies/oracle.svg" />
+<img width="30px" height="30px"  alt="MSSQLServer" src="assets/technologies/ms-sql-server.png"  />
+<img width="30px" height="30px" alt="PostgreSQL" src="assets/technologies/postgresql.svg" />
+<img width="30px" height="30px" alt="Firebase" src="assets/technologies/firebase.png" />
+<img width="30px" height="30px" alt="MongoDB" src="assets/technologies/mongodb.svg" />
+<img width="30px" height="30px" alt="Redis" src="assets/technologies/redis.svg" />
+<img width="30px" height="30px" alt="Auth0" src="assets/technologies/auth0.svg" />
+<img width="30px" height="30px" alt="AWS" src="assets/technologies/aws.svg" />
 </div>
 
 <hr>
