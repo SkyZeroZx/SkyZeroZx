@@ -65,7 +65,7 @@
 
 <h4>Certificaciones</h4>
 
-<center>
+<p style="text-align: center;" align="center">
  
   <a href="https://www.credly.com/badges/f6971597-3133-4012-9728-70e0c43b8d4a/public_url"  rel="noopener noreferrer"  target="_blank" >
     <img width="160px" height="160px" alt="AWS Cloud Practitioner" src="assets/certifications/aws-certified-cloud-practitioner.png" />
@@ -75,7 +75,7 @@
     <img width="160px" height="160px" alt="AWS Solutions Architect Associate" src="assets/certifications/aws-certified-solutions-architect-associate.png" />
   </a>
  
-</center>
+</p>
 
 <hr>
 
