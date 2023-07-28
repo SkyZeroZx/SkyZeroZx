@@ -20,6 +20,7 @@
 <img width="30px" height="30px" alt="Javascript" src="assets/technologies/javascript.svg" />
 <img width="30px" height="30px" alt="Typescript" src="assets/technologies/typescript.svg" />
 <img width="30px" height="30px" alt="Angular" src="assets/technologies/angular.svg" />
+<img width="30px" height="30px" alt="Nx" src="assets/technologies/nx.svg" />
 <img width="30px" height="30px" alt="PWA" src="assets/technologies/pwa.png" >
 <img width="30px" height="30px" alt="Cypress" src="assets/technologies/cypress.png"   />
 <img width="30px" height="30px" alt="Jasmine" src="assets/technologies/jasmine.svg"  />
@@ -74,7 +75,11 @@
   <a href="https://www.credly.com/badges/b98f1fca-4461-4fe3-be4a-3770f19b6e0d/public_url"  rel="noopener noreferrer"  target="_blank" >
     <img width="160px" height="160px" alt="AWS Solutions Architect Associate" src="assets/certifications/aws-certified-solutions-architect-associate.png" />
   </a>
- 
+
+   <a href="https://www.credly.com/badges/11316430-4f75-4332-9152-dbcf8e7bd96d/public_url"  rel="noopener noreferrer"  target="_blank" >
+    <img width="160px" height="160px" alt="AWS Solutions Architect Professional" src="assets/certifications/aws-certified-solutions-architect-professional.png" />
+  </a>
+
 </p>
 
 <hr>
