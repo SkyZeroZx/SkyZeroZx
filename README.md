@@ -84,11 +84,11 @@
 
 <p style="text-align: center;" align="center">
  
-  <a href="https://learn.microsoft.com/es-es/users/jaimeburgostejada-3833/credentials/57aea8d67292683f"  rel="noopener noreferrer"  target="_blank"  style="color: transparent">
+  <a  href="https://learn.microsoft.com/es-es/users/jaimeburgostejada-3833/credentials/bac9bb1718ee4e4a" rel="noopener noreferrer"  target="_blank"  style="color: transparent">
     <img width="160px" height="160px" alt="Azure Fundamentals" src="assets/certifications/az-900.svg" />
   </a>
 
-  <a href="https://learn.microsoft.com/es-es/users/jaimeburgostejada-3833/credentials/bac9bb1718ee4e4a"  rel="noopener noreferrer"  target="_blank"  style="color: transparent">
+  <a  href="https://learn.microsoft.com/es-es/users/jaimeburgostejada-3833/credentials/57aea8d67292683f"  rel="noopener noreferrer"  target="_blank"  style="color: transparent">
     <img width="160px" height="160px" alt="Azure Administrator" src="assets/certifications/az-104.png" />
   </a>
 
