@@ -92,6 +92,9 @@
     <img width="160px" height="160px" alt="Azure Administrator" src="assets/certifications/az-104.png" />
   </a>
 
+  <a  href="https://learn.microsoft.com/en-us/users/jaimeburgostejada-3833/credentials/771395ad737efe90"  rel="noopener noreferrer"  target="_blank"  style="color: transparent">
+    <img width="160px" height="160px" alt="Azure Solutions Architect Expert" src="assets/certifications/az-305.webp" />
+  </a>
 </p>
 
 <hr>
