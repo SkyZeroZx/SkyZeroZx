@@ -97,6 +97,13 @@
   </a>
 </p>
 
+<p style="text-align: center;" align="center">
+ 
+  <a  href="https://www.credly.com/badges/48ea25eb-9108-4e6c-8448-64243173e9a9/public_url" rel="noopener noreferrer"  target="_blank"  style="color: transparent">
+    <img width="160px" height="160px" alt="Azure Fundamentals" src="assets/certifications/associate-cloud-engineer-certification.png" />
+  </a>
+</p>
+
 <hr>
 
 <h4>Estadísticas de GitHub</h4>
