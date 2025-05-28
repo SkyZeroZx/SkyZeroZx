@@ -102,6 +102,9 @@
   <a  href="https://www.credly.com/badges/48ea25eb-9108-4e6c-8448-64243173e9a9/public_url" rel="noopener noreferrer"  target="_blank"  style="color: transparent">
     <img width="160px" height="160px" alt="Google Cloud Associate Cloud Engineer Certification" src="assets/certifications/associate-cloud-engineer-certification.png" />
   </a>
+  <a  href="https://www.credly.com/badges/cce2475d-3d10-40a6-adc6-47a0f22861b1/public_url" rel="noopener noreferrer"  target="_blank"  style="color: transparent">
+    <img width="160px" height="160px" alt="Google Cloud Professional Cloud Engineer Certification" src="assets/certifications/professional-cloud-architect-certification.png" />
+  </a>
 </p>
 
 <hr>
